@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: HEP
+Build-Jdk: 17.0.9
+Specification-Title: Henn
+Specification-Version: 1.0
+Created-By: Maven Integration for Eclipse
+SMC-Rule: 1.0
+
